@@ -1,0 +1,90 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.head {
+    display: flex;
+    margin: auto 50px;
+}
+
+.intro {
+    width: 40%;
+    margin-top: 100px;
+    padding-left: 3%;
+}
+
+.intro-head {
+    font-size: 50px;
+    font-weight: 700;
+    color: #575757;
+}
+
+.orange {
+    color: orange;
+}
+
+.prm-bg {
+    width: 50%;
+    padding-left: 4%;
+    padding-top: 2%;
+}
+
+.prim {
+    width: 90%;
+}
+
+.btn-prim {
+    background: linear-gradient(orange, tomato);
+    padding: 15px 20px;
+    border-radius: 30px;
+    width: 170px;
+    height: 60px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.intro-p {
+    color: #828282;
+}
+
+.abt-me {
+    display: flex;
+    margin: 150px auto;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.sec-bg {
+    width: 50%;
+    padding-top: 3%;
+}
+
+.sec {
+    width: 50%;
+    padding-left: 200px;
+}
+
+.about {
+    width: 35%;
+    padding-right: 5%;
+    padding-top: 70px;
+    text-align: inherit;
+}
+
+.about h3 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #707070;
+}
+
+.about p {
+    color: #18191F;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.about .btn-prim {
+    margin-top: 50px;
+}
