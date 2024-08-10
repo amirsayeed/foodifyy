@@ -90,3 +90,30 @@ body {
 .about .btn-prim {
     margin-top: 50px;
 }
+
+.my-rec {
+    text-align: center;
+}
+
+.recipie-det {
+    display: flex;
+    margin: auto 100px;
+}
+
+.recipie {
+    width: 300px;
+    padding: 30px;
+}
+
+.rec-img {
+    width: 300px;
+}
+
+.recipie-title {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.recipie-des {
+    font-size: 16px;
+}
